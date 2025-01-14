@@ -11,7 +11,7 @@ robocraft youtubers from 2016 - 2017.
 
 # Screenshot
 
-This is favorite bot that i've bult yet.
+This is my favorite bot that i've bult yet.
 This was in the crf when ROSEFALL reviewed bots from it and no youtube tutorials
 on how to build this one, so i decided to look at the video carefully and replicated the build.
 Since ROSEFALL's Milano is difficult to fly and looks really bulky which i disliked.
