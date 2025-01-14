@@ -18,4 +18,4 @@ This bot is very stable and agile, one of my best and most proud build.
 ![top](/../../../../rabbitfishy/Robocraft-CRF-Bot/blob/main/screenshot/top.PNG)<br>
 ![front](/../../../../rabbitfishy/Robocraft-CRF-Bot/blob/main/screenshot/front.PNG)<br>
 ![back](/../../../../rabbitfishy/Robocraft-CRF-Bot/blob/main/screenshot/back.PNG)<br>
-![bottom](/../../../../rabbitfishy/Robocraft-CRF-Bot/blob/main/screenshot/bottom.PNG)<br>
+![bottom](/../../../../rabbitfishy/Robocraft-CRF-Bot/blob/main/screenshot/bottom.PNG)
